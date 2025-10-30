@@ -1,0 +1,7 @@
+.env
+*.env
+*.env.*
+soonerai.env
+soonerai-*.env
+.soonerai.env
+*secret*
